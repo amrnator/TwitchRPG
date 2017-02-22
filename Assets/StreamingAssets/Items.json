@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"title": "Sword",
+		"value": 6,
+		"stats": {
+			"power": 5,
+			"defense": 4,
+			"vitality": 3
+		},
+		"description": "A basic iron sword",
+		"stackable": false,
+		"rarity" : 2,
+		"slug" : "sword"
+	},
+	{
+		"id": 1,
+		"title": "the Great Stick",
+		"value": 6,
+		"stats": {
+			"power": 5,
+			"defense": 3,
+			"vitality": 3
+		},
+		"description": "A basic iron sword",
+		"stackable": true,
+		"rarity" : 2,
+		"slug" : "the_great_strick"
+	}
+]
